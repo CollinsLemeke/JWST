@@ -1,4 +1,6 @@
-# JWST: Images of Galaxies and Nebulas
+# The James Webb Space Telescope:
+
+## Analysing Images of Galaxies and Nebulas
 
 **Analysing Images of Galaxies &amp; Nebulas**
 
